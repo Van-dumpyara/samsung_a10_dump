@@ -1,0 +1,14 @@
+# a10dd-user 11 RP1A.200720.012 A105FDDS9CWD2 release-keys
+- manufacturer: samsung
+- platform: universal7884b
+- codename: a10
+- flavor: a10dd-user
+- release: 11
+- id: RP1A.200720.012
+- incremental: A105FDDS9CWD2
+- tags: release-keys
+- fingerprint: samsung/a10dd/a10:11/RP1A.200720.012/A105FDDS9CWD2:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a10dd-user-11-RP1A.200720.012-A105FDDS9CWD2-release-keys
+- repo: samsung_a10_dump
