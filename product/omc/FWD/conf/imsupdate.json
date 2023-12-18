@@ -1,0 +1,14 @@
+{
+    "update_version": 1,
+    "note": "Disable RCS for Orange_MA (Sales code : FWD). PLM[P201221-05372]",
+    "imsswitch_update": {
+      "imsswitch": [
+        {
+          "mnoname": "Orange_MA",
+          "enableIms": false,
+          "enableServiceRcs": false,
+          "enableServiceRcschat": false
+        }      
+      ]
+    }
+} 
